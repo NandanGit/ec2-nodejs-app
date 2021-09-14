@@ -1,0 +1,23 @@
+{
+  "name": "ec2-nodejs-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NandanGit/ec2-nodejs-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NandanGit/ec2-nodejs-app/issues"
+  },
+  "homepage": "https://github.com/NandanGit/ec2-nodejs-app#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
